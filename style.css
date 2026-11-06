@@ -1,0 +1,13 @@
+/* Ocultar elementos para la navegación estilo Single Page Application */
+.hidden-view { 
+    display: none !important; 
+}
+
+/* Colores institucionales de HSI */
+.hsi-blue { 
+    color: #007bff; 
+}
+
+.bg-hsi-blue { 
+    background-color: #007bff; 
+}
